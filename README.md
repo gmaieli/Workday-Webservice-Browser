@@ -28,7 +28,7 @@ pip install requests beautifulsoup4 pillow pyperclip
 ## Usage
 1. Clone the repository to your local machine:
 ```shell
-git clone https://github.com/yourusername/web-service-browser.git
+git clone https://github.com/gmaieli/web-service-browser.git
 cd web-service-browser
 ```
 2. Run the application
